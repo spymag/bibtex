@@ -16,3 +16,9 @@ Warning: bibtexbrowser maintains a cached version of the parsed bibtex, for high
 
 Handling mutliple bibtex files: If you want to include several bibtex files, just give bibtexbrowser the files separated by semi-columns e.g:
 bibtexbrowser.local.php?bib=strings.bib;biblio.bib
+
+
+All credit and rights are going to the developers:
+
+https://www.monperrus.net/martin/bibtexbrowser/
+
